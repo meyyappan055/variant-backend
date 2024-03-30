@@ -21,7 +21,7 @@ Clone this **https://github.com/meyyappan055/variant-backend.git**
 
 ### API Endpoints: ###
 **GET /:** Retrieves all variants and renders them in the browser. <br>
-**POST /:** Adds a new variant with provided size, color, and material data.
+**POST /:** Adds a new variant with provided size, color, and material data. <br>
 **DELETE /:** Delete a new variant by providing size , color and material data.
 
 ### Docker: ###
