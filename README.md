@@ -32,11 +32,13 @@ This application can also be run using Docker.Use the following commands: <br>
 
 ### screeenshots: ###
 
+![image](https://github.com/meyyappan055/variant-backend/assets/119162363/33fc9249-015a-457f-a310-8b21843ffbf1)
+
 ![image](https://github.com/meyyappan055/variant-backend/assets/119162363/9d025e56-a78e-4179-aafb-13394eecbdd4)
 
 ![image](https://github.com/meyyappan055/variant-backend/assets/119162363/abc9c507-3009-4ff1-ae2f-cc22a79ad737)
 
-![image](https://github.com/meyyappan055/variant-backend/assets/119162363/33fc9249-015a-457f-a310-8b21843ffbf1)
+
 
 
 
