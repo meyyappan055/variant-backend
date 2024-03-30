@@ -19,11 +19,6 @@ Clone this **https://github.com/meyyappan055/variant-backend.git**
 ### Install dependencies: ###
 `npm install express ejs mongoose mongodb body-parser nodemon`
 
-### Start the server: ###
-`npm start` <br>
-Open your web browser and navigate to **http://localhost:5555** to view the application.
-
-
 ### API Endpoints: ###
 **GET /:** Retrieves all variants and renders them in the browser. <br>
 **POST /:** Adds a new variant with provided size, color, and material data.
