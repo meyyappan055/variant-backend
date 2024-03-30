@@ -38,6 +38,7 @@ This application can also be run using Docker.Use the following commands: <br>
 
 ![image](https://github.com/meyyappan055/variant-backend/assets/119162363/abc9c507-3009-4ff1-ae2f-cc22a79ad737)
 
+![image](https://github.com/meyyappan055/variant-backend/assets/119162363/ee223ec8-eb24-471c-a3b9-cf08d22633ce)
 
 
 
