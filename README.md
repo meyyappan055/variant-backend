@@ -38,14 +38,14 @@ docker-compose build
 docker-compose up
 
 screeenshots:
-![image](https://github.com/meyyappan055/variant-backend/assets/119162363/a14966d6-2d75-43e9-b6bc-3dbb3db0eb41)
-![image](https://github.com/meyyappan055/variant-backend/assets/119162363/64f80020-dff5-4366-8a35-f735a68e76d4)
 
-![image](https://github.com/meyyappan055/variant-backend/assets/119162363/835148ff-4a4c-4d61-a65b-b3d60d719dc5).
-![image](https://github.com/meyyappan055/variant-backend/assets/119162363/be57a24a-067e-40b7-9f71-6be17797a6d7)
-![image](https://github.com/meyyappan055/variant-backend/assets/119162363/dc127031-4c73-4898-82c4-4e3c86065810)
-![image](https://github.com/meyyappan055/variant-backend/assets/119162363/46f44471-9f8b-4284-b161-695edf8458a7)
-![image](https://github.com/meyyappan055/variant-backend/assets/119162363/1c7c961e-7144-44bb-820a-85ef3dca01cf)
+![image](https://github.com/meyyappan055/variant-backend/assets/119162363/9d025e56-a78e-4179-aafb-13394eecbdd4)
+
+![image](https://github.com/meyyappan055/variant-backend/assets/119162363/abc9c507-3009-4ff1-ae2f-cc22a79ad737)
+
+
+![image](https://github.com/meyyappan055/variant-backend/assets/119162363/e590b897-91bb-428c-8ec0-8868c3203216)
+
 
 
 
