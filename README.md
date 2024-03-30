@@ -11,7 +11,7 @@
 ### Features: ###
 Display a list of variants with size, color, and material information. <br>
 Add new variants with size, color, and material data through a POST request. <br>
-Delete an item by its ID.
+Delete an item by passing size,color and material as parameters.
 
 ### Installation: ###
 Clone this **https://github.com/meyyappan055/variant-backend.git**
@@ -22,7 +22,7 @@ Clone this **https://github.com/meyyappan055/variant-backend.git**
 ### API Endpoints: ###
 **GET /:** Retrieves all variants and renders them in the browser. <br>
 **POST /:** Adds a new variant with provided size, color, and material data.
-
+**DELETE /:** Delete a new variant by providing size , color and material data.
 
 ### Docker: ###
 This application can also be run using Docker.Use the following commands: <br>
