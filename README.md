@@ -3,7 +3,7 @@
 ### Technologies Used: ###
 **Node.js** <br>
 **Express.js** <br>
-**MongoDB - mongoode ODM** <br>
+**MongoDB - mongoose ODM** <br>
 **EJS (Embedded JavaScript) templating** <br>
 **Docker** <br>
 
