@@ -32,7 +32,7 @@ This application can also be run using Docker.Use the following commands: <br>
 
 ### screeenshots: ###
 
-![image](https://github.com/meyyappan055/variant-backend/assets/119162363/33fc9249-015a-457f-a310-8b21843ffbf1)
+![image](https://github.com/meyyappan055/variant-backend/assets/119162363/506d117b-2375-4e01-990a-0a0b1ace7817)
 
 ![image](https://github.com/meyyappan055/variant-backend/assets/119162363/9d025e56-a78e-4179-aafb-13394eecbdd4)
 
