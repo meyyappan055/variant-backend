@@ -14,25 +14,24 @@ Add new variants with size, color, and material data through a POST request.
 
 
 ### Installation: ###
-Clone this repository to your local machine:
-**git clone https://github.com/your-username/variants-web-app.git**
+Clone this **https://github.com/meyyappan055/variant-backend.git**
 
 ### Install dependencies: ###
-`npm install`
+`npm install express ejs mongoose mongodb body-parser nodemon`
 
 ### Start the server: ###
-`npm start`
+`npm start` <br>
 Open your web browser and navigate to **http://localhost:5555** to view the application.
 
 
-### API Endpoints ###
-**GET /:** Retrieves all variants and renders them in the browser.
+### API Endpoints: ###
+**GET /:** Retrieves all variants and renders them in the browser. <br>
 **POST /:** Adds a new variant with provided size, color, and material data.
 
 
-### Docker ###
-This application can also be run using Docker.Use the following commands:
-`docker-compose build`
+### Docker: ###
+This application can also be run using Docker.Use the following commands: <br>
+`docker-compose build` <br>
 `docker-compose up`
 
 
