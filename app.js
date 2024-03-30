@@ -7,18 +7,19 @@ app.use(express.json())
 app.set('view engine','ejs');
 
 
-app.delete("/:ID", async (req, res) => {
-    try {
-        const deleteElement = await schema.findByIdAndDelete(req.params.ID);
-        if (!deleteElement) {
-            res.send("Variant not found. Check again.");
-        } else {
-            res.send("Variant deleted successfully.");
-        }
-    } catch (error) {
-        res.send("Error: " + error);
+app.delete("/delete",async (req,res) =>{
+    const {size, color , material} = req.body;
+    if(!size || !color || !material){
+        res.json({error:"size,colorand material are required"});
+    } 
+    try{
+        const deleteElement = await schema.deleteMany({size,color,material});
+        console.log(deleteElement);
+        res.json({message:"deleted successfully"});
+    } catch(error){
+        res.json("error: "+ error);
     }
-});
+})
 
 app.get("/", async(req,res)=>{
     try{
@@ -43,7 +44,6 @@ app.post("/",async (req,res)=>{
         res.send("error: "+error);
     }
 })
-
 
 
 app.listen(5555,()=>{
