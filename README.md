@@ -10,8 +10,8 @@
 
 ### Features: ###
 Display a list of variants with size, color, and material information. <br>
-Add new variants with size, color, and material data through a POST request.
-
+Add new variants with size, color, and material data through a POST request. <br>
+Delete an item by its ID.
 
 ### Installation: ###
 Clone this **https://github.com/meyyappan055/variant-backend.git**
